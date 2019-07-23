@@ -5,6 +5,7 @@
 * Copyright 2019, Harsh Dave
 * 
 */
+
 {
     const MathUtils = {
         lineEq: (y2, y1, x2, x1, currentVal) => {
