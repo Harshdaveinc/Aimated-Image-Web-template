@@ -380,14 +380,17 @@ a:focus {
 .column--bottom {
   align-self: end;
 }
-.music {
+
+#id {
   display: none;
   visibility: hidden;
 }
+
 #footer {
   font-size: 20px;
-  text-align: center; 
+  text-align: center;
 }
+
 .column__img {
   width: 100%;
   display: block;
